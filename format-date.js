@@ -1,3 +1,10 @@
+/**
+ * https://github.com/shiyou0130011/format-date.js
+ * @license Apache-2.0
+ */
+
+	
+
 Date.prototype.format = function(formatString){
 	var date = this
 	
